@@ -1,4 +1,4 @@
-# Rest-api for simple blogging system
+# Rest-api for a simple blogging system
 
 ## Posts
 Any post contains "title", "content", "category", "tags" fields
