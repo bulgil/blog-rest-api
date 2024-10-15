@@ -1,9 +1,9 @@
-#Rest-api for simple blogging system
+# Rest-api for simple blogging system
 
-##Posts
+## Posts
 Any post contains "title", "content", "category", "tags" fields
 
-##End-points:
+## End-points:
 GET  /posts               lists all posts
 GET  /posts?term=<search> lists all posts that contains <search>
 GET  /posts/<id>          lists post with <id> id
