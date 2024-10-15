@@ -1,0 +1,9 @@
+env: "dev"
+http_server:
+  address: "127.0.0.1"
+  port: "10000"
+pg_storage:
+  address: "127.0.0.1"
+  port: "5432"
+  login: "postgres"
+  password: "postgres"
